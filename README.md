@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-"# summer-olympic-data-science-project" 
->>>>>>> (Initial commit)
+# summer-olympic-data-science-project"  
